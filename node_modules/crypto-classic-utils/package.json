@@ -1,0 +1,26 @@
+{
+  "name": "crypto-classic-utils",
+  "version": "1.0.0",
+  "description": "utils for classic cryptography",
+  "main": "utils.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lostways/crypto-classic-utils"
+  },
+  "keywords": [
+    "cryptography",
+    "classic"
+  ],
+  "author": "Andrew Lowe <andrew@lostways.com> (http://lostways.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostways/crypto-classic-utils/issues"
+  },
+  "homepage": "https://github.com/lostways/crypto-classic-utils",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}

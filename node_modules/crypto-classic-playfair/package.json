@@ -1,0 +1,30 @@
+{
+  "name": "crypto-classic-playfair",
+  "version": "1.0.0",
+  "description": "classic playfair cipher",
+  "main": "playfair.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lostways/crypto-classic-playfair"
+  },
+  "keywords": [
+    "classic",
+    "crypto",
+    "playfair"
+  ],
+  "author": "Andrew Lowe <andrew@lostways.com> (http://lostways.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostways/crypto-classic-playfair/issues"
+  },
+  "homepage": "https://github.com/lostways/crypto-classic-playfair",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "crypto-classic-utils": "^1.0.0"
+  }
+}
